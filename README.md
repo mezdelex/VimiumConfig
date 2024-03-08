@@ -1,0 +1,2 @@
+# VimiumConfig
+Vimium Config
