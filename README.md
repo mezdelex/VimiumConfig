@@ -9,6 +9,6 @@
 
 ## Core
 
-|       Name       |                                 Source                                      |                                    Uri                                      |
-| :--------------: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| Config           | [repo]([https://github.com/gokcehan/lf](https://github.com/philc/vimium))   | [gruvbox](https://github.com/mezdelex/VimiumConfig/tree/main/gruvbox.css)   |
+|  Name  |                 Source                  |                                    Uri                                    |
+| :----: | :-------------------------------------: | :-----------------------------------------------------------------------: |
+| Config | [repo](https://github.com/philc/vimium) | [gruvbox](https://github.com/mezdelex/VimiumConfig/tree/main/gruvbox.css) |
